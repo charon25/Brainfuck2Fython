@@ -29,7 +29,7 @@ Output Fython assembly :
 
 <details>
     <summary>Click to expand (670 lines)</summary>
-    ```
+
     push 1
     push 1
     push 0
@@ -701,7 +701,6 @@ Output Fython assembly :
 
     copy 2
     print 1
-    ```
 </details>
 <br>
 Interpreter output :
