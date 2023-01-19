@@ -45,7 +45,11 @@ def get_brackets_pairs(bf_code: str):
             brackets[depth].append(i)
             depth -= 1
     
+    pairs = []
+    for _, indexes in brackets.items():
+        pairs.extend([(indexes[i], indexes[i+1]) for i in range(0, len(indexes), 2)])
     
+    return pairs
 
 
 if __name__ == '__main__':
