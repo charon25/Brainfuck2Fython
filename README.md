@@ -702,7 +702,7 @@ Output Fython assembly :
     copy 2
     print 1
 </details>
-<br>
+
 Interpreter output :
 
 ```bash
