@@ -14,7 +14,7 @@ def check_positive_int(number: str):
 def read_arguments() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument('input_path', help='Path to the brainfuck file.')
-    parser.add_argument('output_path', nargs='?', default=None, help='Path of the output Fython file. Defaults to the same as the brainfuck file with a ".py" extension.')
+    parser.add_argument('output_path', nargs='?', default=None, help='Path of the output Fython file. Defaults to the same as the brainfuck file with a ".txt" extension.')
     parser.add_argument( '--cell-size', '-c', type=check_positive_int, default='8', help='Size of a memory cell in bits. Defaults to 8.')
 
     return parser.parse_args()

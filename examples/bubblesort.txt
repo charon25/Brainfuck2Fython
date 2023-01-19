@@ -1,0 +1,1415 @@
+push 1
+push 1
+push 0
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pop 1
+read 1
+
+copy 2
+pop 1
+jmpz 45
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pop 1
+read 1
+
+copy 2
+pop 1
+jmpnz -49
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+copy 2
+pop 1
+jmpz 1039
+
+copy 2
+pop 1
+jmpz 25
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+copy 2
+pop 1
+jmpnz -29
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+copy 2
+pop 1
+jmpz 791
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+copy 2
+pop 1
+jmpz 79
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+push 1
+add
+push 256
+mod
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+push 1
+add
+push 256
+mod
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+push 1
+sub
+push 256
+mod
+
+copy 2
+pop 1
+jmpnz -83
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+copy 2
+pop 1
+jmpz 190
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+push 1
+add
+push 256
+mod
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+copy 2
+pop 1
+jmpz 26
+
+push 1
+sub
+push 256
+mod
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+copy 2
+pop 1
+jmpnz -30
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+copy 2
+pop 1
+jmpz 13
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+copy 2
+pop 1
+jmpnz -17
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+push 1
+sub
+push 256
+mod
+
+copy 2
+pop 1
+jmpnz -194
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+copy 2
+pop 1
+jmpz 255
+
+copy 2
+pop 1
+jmpz 5
+
+push 1
+sub
+push 256
+mod
+
+copy 2
+pop 1
+jmpnz -9
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+copy 2
+pop 1
+jmpz 42
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+push 1
+add
+push 256
+mod
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+push 1
+sub
+push 256
+mod
+
+copy 2
+pop 1
+jmpnz -46
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+copy 2
+pop 1
+jmpz 108
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+push 1
+add
+push 256
+mod
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+push 1
+sub
+push 256
+mod
+
+copy 2
+pop 1
+jmpnz -112
+
+copy 2
+pop 1
+jmpnz -259
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+copy 2
+pop 1
+jmpz 90
+
+copy 2
+pop 1
+jmpz 42
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+push 1
+add
+push 256
+mod
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+push 1
+sub
+push 256
+mod
+
+copy 2
+pop 1
+jmpnz -46
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+copy 2
+pop 1
+jmpnz -94
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+copy 2
+pop 1
+jmpnz -795
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+copy 2
+pop 1
+jmpz 75
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+push 1
+add
+push 256
+mod
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+push 1
+sub
+push 256
+mod
+
+copy 2
+pop 1
+jmpnz -79
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+pick -2
+push 1
+sub
+jmpz 6
+place -2
+place -3
+push 1
+pop 1
+jmpnz 4
+pop 1
+push 1
+place -2
+
+copy 2
+pop 1
+jmpnz -1043
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+copy 2
+pop 1
+jmpz 45
+
+copy 2
+print 1
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+pick -2
+copy 2
+pick -1
+copy 2
+pick 2
+sub
+pop 1
+jmpnz 9
+push 1
+add
+place -1
+push 1
+add
+place -2
+push 0
+jmpz 6
+place -1
+push 1
+add
+place -2
+pick -3
+
+copy 2
+pop 1
+jmpnz -49
