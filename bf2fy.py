@@ -101,7 +101,7 @@ if __name__ == '__main__':
         fython_code[end_index] = [instruction.replace('%j', str(-close_jump_length)) for instruction in fython_code[end_index]]
 
     fython_code.insert(0, ['push 1', 'push 1', 'push 0'])
-    output_path = arguments.input_path + '.py' if arguments.output_path is None else arguments.output_path
+    output_path = arguments.input_path + '.txt' if arguments.output_path is None else arguments.output_path
     try:
         with open(output_path, 'w') as fo:
             fo.write("\n\n".join("\n".join(instruction for instruction in instructions) for instructions in fython_code if instructions))
